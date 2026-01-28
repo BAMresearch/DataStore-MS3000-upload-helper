@@ -1,9 +1,8 @@
 # MS3000 Parser & OpenBIS Upload
 
-Strukturierte Python-Module zum Einlesen von MS3000-Ausgabedateien, Erzeugen von Ergebnisplots/Dateien
-und Hochladen der Daten in OpenBIS/ELN via `pybis`.
+Strukturierte Python-Module zum Einlesen von Exporten des Malvern Mastersizer3000 zur Partikelgrößenanalyse , Erzeugen von Ergebnisplots/Dateien
+und Hochladen der Daten in den BAM Data Store (OpenBIS/ELN) via `pybis`.
 
-> Basierend auf dem ursprünglichen Skript `MS3000raw.py`. (Quelle: angehängte Datei) 
 
 ## Modulübersicht
 
