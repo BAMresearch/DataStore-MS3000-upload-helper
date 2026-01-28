@@ -77,6 +77,5 @@ print("Upload abgeschlossen.")
 └── README.md
 ```
 
-## Lizenz
-
-Füge hier deine bevorzugte Lizenz hinzu (z. B. MIT).
+## Test
+Reale Exportdatei zum Testen: M24-043-192.txt
